@@ -1,3 +1,3 @@
-# Homework assignment 7
+# Homework assignment 8
 
-### White dwarf stars. Catastrophic cancellations.
+### Catastrophic cancellations. Solving nonlinear equations.
